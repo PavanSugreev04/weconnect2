@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://rb.gy/rd5it0" alt="WeConnect Logo" width="90" height="90"></p>
 
-<p id="description">WeConnect community-based app built with Next.js for the UI and functionality Google Cloud Console for hosting and authentication and Firebase Firestore for database management. Enhanced with additional libraries for a secure and engaging experience.</p>
+<p id="description">WeConnect is a community-based app built with Next.js for a dynamic and responsive UI, inspired by the Twitter interface. It leverages Google Cloud Console for robust hosting and authentication, and Firebase Firestore for scalable database management. The application is enhanced with additional libraries to ensure a secure and engaging user experience. We have also designed a custom logo to complement the app’s branding and functionality.</p>
 
 <h2>🚀 Demo</h2>
 
